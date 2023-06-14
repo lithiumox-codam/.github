@@ -1,12 +1,9 @@
-## Hi there 👋
+## Welcome to my Codam Code Org!
 
-<!--
+Hey there! Welcome to my Codam Organization. This organization is dedicated to showcasing all the projects I create during my time at Codam. By centralizing my Codam-related projects in this organization, I aim to create a more organized and accessible space for collaboration and learning.
 
-**Here are some ideas to get you started:**
+Also a major benefit is using submodules instead of funky symlinks :D
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# About Codam
+
+Codam is an exceptional coding college that operates within the 42 network. It offers a unique and immersive learning experience, fostering creativity, independence, and teamwork among its students. At Codam, we tackle coding challenges, work on exciting projects, and develop valuable skills that propel us forward in our coding journey.
