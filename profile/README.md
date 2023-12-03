@@ -1,6 +1,4 @@
-
-[![Pullpo - DevCard](https://devcard.pullpo.io/api?user_id=clls1oc9ut8s738o8f80&custom_title=LitihumOx&custom_subtitle=Codam%20Organization&show_icons=true&disable_animations=false&title_color=fad000&text_color=a599e9&icon_color=b362ff&ring_color=a599e9&bg_color=2d2b55&image_url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F136644405%3Fv%3D4)](https://pullpo.io/products/devcard)
-
+[![Mees's 42 stats](https://badge.mediaplus.ma/darkblue/mdekker)](https://github.com/oakoudad/badge42)
 
 ## Welcome to my Codam Code Org!
 
