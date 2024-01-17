@@ -1,5 +1,3 @@
-[![Mees's 42 stats](https://badge.mediaplus.ma/darkblue/mdekker)](https://github.com/oakoudad/badge42)
-
 ## Welcome to my Codam Code Org!
 
 Hey there! Welcome to my Codam Organization. This organization is dedicated to showcasing all the projects I create during my time at Codam. By centralizing my Codam-related projects in this organization, I aim to create a more organized and accessible space for collaboration and learning.
